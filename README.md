@@ -1,0 +1,1 @@
+This repo contains the inference code for Phi-4-multimodal. The code is adapted from https://github.com/microsoft/PhiCookBook/blob/main/md/02.Application/08.Multimodel/Phi4/TechJournalist/phi_4_mm_audio_text_publish_news.ipynb
